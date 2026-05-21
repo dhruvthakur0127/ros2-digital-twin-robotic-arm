@@ -9,12 +9,7 @@ A complete **Digital Twin** system for a 6-DOF robotic arm using **ROS 2 Jazzy**
 ![Arduino](https://img.shields.io/badge/Arduino-Uno_R3-teal)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> **Course:** 3EL13 — Electronics System Design Laboratory
-> **Guide:** Dr. Dipakkumar M Patel
-> **Authors:** Dhruv Thakur (23EL020)
-> **Institution:** Birla Vishvakarma Mahavidyalaya Engineering College, Vallabh Vidyanagar, Gujarat
 
----
 
 ## 📋 Table of Contents
 
