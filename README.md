@@ -98,7 +98,7 @@ This project creates a **Digital Twin** — a virtual replica of a physical robo
 ## Hardware Requirements
 
 | Component | Specification | Qty | 
-|-----------|---------------|-----|-------------|
+|-----------|---------------|-----|
 | 6-DOF Robotic Arm Kit | RKI-2533 Aluminium | 1 | 
 | Arduino Uno R3 | ATmega328P, CH340 | 1 | 
 | PCA9685 Servo Driver | 16-ch, I2C, 12-bit | 1 | 
