@@ -97,15 +97,15 @@ This project creates a **Digital Twin** — a virtual replica of a physical robo
 
 ## Hardware Requirements
 
-| Component | Specification | Qty | Approx Cost |
+| Component | Specification | Qty | 
 |-----------|---------------|-----|-------------|
-| 6-DOF Robotic Arm Kit | RKI-2533 Aluminium | 1 | ₹14,990 |
-| Arduino Uno R3 | ATmega328P, CH340 | 1 | ₹500 |
-| PCA9685 Servo Driver | 16-ch, I2C, 12-bit | 1 | ₹250 |
-| MG995 Servo Motors | 11 kg·cm, metal gear | 6 | ₹1,194 |
-| 5V 10A SMPS | AC-DC, 50W | 1 | ₹450 |
-| Jumper Wires | M-M, M-F assorted | 1 set | ₹150 |
-| USB-B Cable | Arduino to PC | 1 | ₹80 |
+| 6-DOF Robotic Arm Kit | RKI-2533 Aluminium | 1 | 
+| Arduino Uno R3 | ATmega328P, CH340 | 1 | 
+| PCA9685 Servo Driver | 16-ch, I2C, 12-bit | 1 | 
+| MG995 Servo Motors | 11 kg·cm, metal gear | 6 | 
+| 5V 10A SMPS | AC-DC, 50W | 1 | 
+| Jumper Wires | M-M, M-F assorted | 1 set | 
+| USB-B Cable | Arduino to PC | 1 | 
 
 ## Software Requirements
 
