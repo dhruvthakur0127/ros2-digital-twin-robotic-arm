@@ -94,14 +94,6 @@ This project creates a **Digital Twin** — a virtual replica of a physical robo
 
 ---
 
-## Demo
-
-> Add your demo images here:
-> - `docs/simulation_screenshot.png` — Screenshot of Gazebo/RViz
-> - `docs/physical_arm.jpg` — Photo of physical arm
-> - `docs/digital_twin_side_by_side.jpg` — Side-by-side comparison
-
----
 
 ## Hardware Requirements
 
